@@ -34,7 +34,7 @@ There are two other types provided by this package: `SignedTypedArray` and
 `UnsignedTypedArray`:
 
 ```ts
-import { SignedTypedArray } from "typedarray-dts";
+import { SignedTypedArray, UnsignedTypedArray } from "typedarray-dts";
 
 function doSomethingSigned(x: SignedTypedArray): void {
     // `x` is a signed `TypedArray`!
