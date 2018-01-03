@@ -1,4 +1,6 @@
+# EditorConfig is awesome: http://EditorConfig.org
 
+# top-most EditorConfig file
 charset = utf-8
 root = true
 
