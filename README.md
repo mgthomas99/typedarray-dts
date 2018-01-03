@@ -1,4 +1,13 @@
+[license-shield-url]: https://img.shields.io/github/license/mgthomas99/typedarray-dts.svg?style=flat-square
+[license-url]: https://github.com/mgthomas99/typedarray-dts/blob/master/LICENSE
+[npm-version-shield-url]: https://img.shields.io/npm/v/mgthomas99/typedarray-dts.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/mgthomas99/typedarray-dts
+
 # typedarray-dts
+
+[![NPM][npm-version-shield-url]][npm-url]
+[![NPM][npm-downloads-shield-url]][npm-url]
+[![LICENSE][license-shield-url]][license-url]
 
 Type definitions for JavaScript typed arrays.
 
